@@ -18,7 +18,7 @@ export default function Home() {
               <a href="#tech" className="text-gray-300 hover:text-orange-400 transition-colors">Technology</a>
               <a href="#how" className="text-gray-300 hover:text-orange-400 transition-colors">How It Works</a>
               <Link 
-                href="https://github.com/yourusername/nexus" 
+                href="https://github.com/rehan-hdr/toa" 
                 target="_blank"
                 className="px-6 py-2 bg-gradient-to-r from-orange-600 to-amber-600 hover:from-orange-500 hover:to-amber-500 text-white font-semibold rounded-lg transition-all shadow-lg shadow-orange-600/20"
               >
@@ -46,7 +46,7 @@ export default function Home() {
             </h1>
             
             <p className="text-xl text-gray-300 leading-relaxed">
-              NEXUS is a local AI assistant powered by Phi-3.5 or Llama 3.2 via Ollama that helps you organize tasks, capture notes, and journal your thoughts. 
+              NEXUS is a local AI assistant powered by Phi-3.5 via Ollama that helps you organize tasks, capture notes, and journal your thoughts. 
               Everything runs on your machine—<span className="text-orange-400 font-semibold">no cloud, no tracking, complete privacy</span>.
             </p>
             
@@ -73,7 +73,7 @@ export default function Home() {
             
             <div className="flex flex-col sm:flex-row gap-4 pt-4">
               <Link 
-                href="https://github.com/yourusername/nexus" 
+                href="https://github.com/rehan-hdr/toa" 
                 target="_blank"
                 className="px-8 py-4 bg-gradient-to-r from-orange-600 to-amber-600 hover:from-orange-500 hover:to-amber-500 text-white text-lg font-semibold rounded-xl transition-all shadow-lg shadow-orange-600/30 hover:shadow-orange-600/50 hover:scale-105"
               >
@@ -525,8 +525,8 @@ export default function Home() {
             </div>
             
             <div className="bg-gradient-to-br from-slate-900 to-slate-950 border border-slate-800 rounded-2xl p-8 text-center hover:border-orange-500/50 hover:scale-105 transition-all">
-              <div className="text-4xl mb-4">🦙</div>
-              <h4 className="text-white font-bold text-lg mb-2">Llama 3.2</h4>
+              <div className="text-4xl mb-4">🤖</div>
+              <h4 className="text-white font-bold text-lg mb-2">Phi-3.5</h4>
               <p className="text-sm text-gray-400">via Ollama</p>
             </div>
             
@@ -574,7 +574,7 @@ export default function Home() {
             <div className="flex-1">
               <h3 className="text-2xl font-semibold text-white mb-3">Intelligent Processing</h3>
               <p className="text-gray-400 text-lg leading-relaxed">
-                Your message is embedded using sentence-transformers (all-MiniLM-L6-v2). ChromaDB retrieves relevant entries. The LLM (Phi-3.5 or Llama 3.2) receives your query with context and generates a response.
+                Your message is embedded using sentence-transformers (all-MiniLM-L6-v2). ChromaDB retrieves relevant entries. Phi-3.5 receives your query with context and generates a response.
               </p>
             </div>
           </div>
@@ -619,14 +619,14 @@ export default function Home() {
             </p>
             <div className="flex flex-col sm:flex-row gap-6 justify-center">
               <Link 
-                href="https://github.com/yourusername/nexus" 
+                href="https://github.com/rehan-hdr/toa" 
                 target="_blank"
                 className="px-10 py-5 bg-gradient-to-r from-orange-600 to-amber-600 hover:from-orange-500 hover:to-amber-500 text-white text-lg font-bold rounded-xl transition-all shadow-lg shadow-orange-500/30 hover:scale-105"
               >
                 Get Started on GitHub
               </Link>
               <Link 
-                href="https://github.com/yourusername/nexus" 
+                href="https://github.com/rehan-hdr/toa" 
                 target="_blank"
                 className="px-10 py-5 bg-transparent hover:bg-white/10 text-white text-lg font-bold rounded-xl transition-all border-2 border-orange-400 hover:border-orange-300"
               >
@@ -655,7 +655,7 @@ export default function Home() {
               <a href="#features" className="text-gray-400 hover:text-orange-400 transition-colors">Features</a>
               <a href="#tech" className="text-gray-400 hover:text-orange-400 transition-colors">Technology</a>
               <a href="#how" className="text-gray-400 hover:text-orange-400 transition-colors">How It Works</a>
-              <Link href="https://github.com/yourusername/nexus" target="_blank" className="text-gray-400 hover:text-orange-400 transition-colors">GitHub</Link>
+              <Link href="https://github.com/rehan-hdr/toa" target="_blank" className="text-gray-400 hover:text-orange-400 transition-colors">GitHub</Link>
             </div>
           </div>
           
